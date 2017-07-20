@@ -14,4 +14,7 @@ Codestyles
 ## TypeScript
 ### Spaces
 * Within ES6 import/export braces
+### Punctuation
+* Use *semicolon* to terminate statements *always*
+* Use *single* quotes *always*
 
