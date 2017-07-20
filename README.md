@@ -7,6 +7,7 @@ These are codestyle files for the JetBrains IDEs.
   * [Braces placement](#braces-placement)
 - [TypeScript](#typescript)
   * [Spaces](#spaces)
+  * [Punctuation](#punctuation)
 
 ## PHP
 ### Braces placement
