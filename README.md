@@ -1,6 +1,8 @@
 Codestyles
 ==========
 
+These are codestyle files for the JetBrains IDEs.
+
 - [PHP](#php)
   * [Braces placement](#braces-placement)
 - [TypeScript](#typescript)
