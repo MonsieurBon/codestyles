@@ -16,6 +16,8 @@ These are codestyle files for the JetBrains IDEs.
 
 ## TypeScript
 ### Spaces
+* Within brackets
+* Within object literal braces
 * Within ES6 import/export braces
 ### Punctuation
 * Use *semicolon* to terminate statements *always*
