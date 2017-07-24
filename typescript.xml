@@ -8,5 +8,6 @@
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
